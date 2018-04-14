@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">1. This is an early form of color photography using plates coated with dyed starch grains? </string>
+    <string name="question1_choice1">Heliography</string>
+    <string name="question1_choice2">Daguerreotypy</string>
+    <string name="question1_choice3">Autochrome</string>
+    <string name="question2">2.\"It was my friend Verrill here, who really put the West Indies on the map.\" Which former president made this statement?</string>
+    <string name="question3">3. Alpheus Hyatt Verrill was which of these two.</string>
+    <string name="question3_choice1">Zoologist</string>
+    <string name="question3_choice2">Archaeologist</string>
+    <string name="question3_choice3">Inventor</string>
+    <string name="question3_choice4">Geologist</string>
+    <string name="question4">4. It is illegal to carry this in your pocket, in Kentucky?</string>
+    <string name="question5">5 Which Asian country\'s capital is Vientiane?</string>
+    <string name="question5_choice1">Malaysia</string>
+    <string name="question5_choice2">Laos</string>
+    <string name="question5_choice3">Philippines</string>
+    <string name="question6">6.Threelined potato beetle and Multicolored Asian lady beetles are both types of what?</string>
+    <string name="question7">7.  Which  two were written by  Alpheus Hyatt Verrill?</string>
+    <string name="question7_choice1">Tales of Land and Sea </string>
+    <string name="question7_choice2">South Wind</string>
+    <string name="question7_choice3">Knots, Splices and Rope Work</string>
+    <string name="question7_choice4">The book of the West Indies</string>
+    <string name="question8">8. "Never a Dull Moment" Verrill\'s unpublished autobiography including archaeological and
+        ethnological reports and artifact lists can be found here?</string>
+    <string name="question9">9. Which vehicle has a boxer engine Subaru Outback or Porsche Cayenne </string>
+    <string name="question9_choice1">Porsche Cayenne</string>
+    <string name="question9_choice2">Subaru Outback</string>
+    <string name="question10">10. The Cincinnati Museum Center at Union Terminal was formally this ?</string>
+    <string name="q_3_image">q3image</string>
+    <string name="q_5_image">q5image</string>
+    <string name="submit_answers">Submit Answers</string>
+    <string name="reset">Reset</string>
+</resources>
